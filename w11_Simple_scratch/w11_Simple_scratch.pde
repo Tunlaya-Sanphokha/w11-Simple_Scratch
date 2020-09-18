@@ -1,6 +1,6 @@
 int x ;
 int y ;
-
+int rotate = 0;
 
 void setup(){
   size(900,900);
